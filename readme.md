@@ -1,5 +1,7 @@
 Stock Portfolio - A Mobile Web App using Backbone.js with localStorage
 
+http://www.armagost.com/blog/backbone-js-stock-portfolio-with-localstorage/
+
 The app allows its user to search for stocks and make transactions (purchase and sell stock). Any stocks purchased are saved in the user's portfolio using the Backbone localStorage Adapter. As the stock market fluctuates the user can keep track of their gains and losses.
 
 Features
